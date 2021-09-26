@@ -17,3 +17,12 @@ zalgo_text
 pynewtonmath
 bs4
 telegraph
+pyrogram
+
+TgCrypto
+
+python-arq
+
+pykeyboard
+
+python-dotenv
